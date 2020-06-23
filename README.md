@@ -101,6 +101,10 @@ Your field of interest with relevant options
 This is the path of Awesome 10-20 platform to get best help with high interactive space.<br>
 Awesome 10-20 content is a top rated collection in tech space.
 
+## License
+
+This project is under the [MIT License](LICENSE).
+
 <hr>
 Add your views in google docs https://docs.google.com/document/d/197_ojIsOiybrX7d7uKUxzRpN6I617Mc3Gb1Urv-9qLo/edit?usp=sharing
 
