@@ -104,3 +104,9 @@ Awesome 10-20 content is a top rated collection in tech space.
 <hr>
 Add your views in google docs https://docs.google.com/document/d/197_ojIsOiybrX7d7uKUxzRpN6I617Mc3Gb1Urv-9qLo/edit?usp=sharing
 
+#### License & Copyright
+
+© Catalyst, 2020
+
+Licensed under the [MIT License](LICENSE).
+
